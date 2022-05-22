@@ -38,6 +38,9 @@ body {
     border: 0;
 }
 
+#login-form{
+    text-align: center;
+}
 #greeting{
     top: 50;
     left: 0;
